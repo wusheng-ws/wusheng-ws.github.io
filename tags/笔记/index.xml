@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>笔记 on 小吴的个人博客</title>
-    <link>http://wusheng-ws.github.io/tags/%E7%AC%94%E8%AE%B0/</link>
-    <description>Recent content in 笔记 on 小吴的个人博客</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Sat, 02 Jul 2022 10:59:47 +0800</lastBuildDate><atom:link href="http://wusheng-ws.github.io/tags/%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hh</title>
-      <link>http://wusheng-ws.github.io/posts/hh/</link>
-      <pubDate>Sat, 02 Jul 2022 10:59:47 +0800</pubDate>
-      
-      <guid>http://wusheng-ws.github.io/posts/hh/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://t7.baidu.com/it/u=1595072465,3644073269&amp;amp;fm=193&amp;amp;f=GIF&#34; alt=&#34;你爹妈石峰吧a&#34;&gt;
-Cut out summary from your post content here.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>笔记 on 小吴的个人博客</title>
+        <link>http://wusheng-ws.github.io/tags/%E7%AC%94%E8%AE%B0/</link>
+        <description>Recent content in 笔记 on 小吴的个人博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-CN</language>
+        <lastBuildDate>Sat, 02 Jul 2022 10:59:47 +0800</lastBuildDate><atom:link href="http://wusheng-ws.github.io/tags/%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hh</title>
+        <link>http://wusheng-ws.github.io/posts/hh/</link>
+        <pubDate>Sat, 02 Jul 2022 10:59:47 +0800</pubDate>
+        
+        <guid>http://wusheng-ws.github.io/posts/hh/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://t7.baidu.com/it/u=1595072465,3644073269&amp;amp;fm=193&amp;amp;f=GIF&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;你爹妈石峰吧a&#34;
+	
+	
+&gt;
+Cut out summary from your post content here.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://t7.baidu.com/it/u=1595072465,3644073269&amp;amp;fm=193&amp;amp;f=GIF&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;你爹妈石峰吧a&#34;
+	
+	
+&gt;
+The remaining content of your post.&lt;/p&gt;</description>
+        </item>
+        
+    </channel>
 </rss>

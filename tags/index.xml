@@ -2,26 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 小吴的个人博客</title>
-    <link>http://wusheng-ws.github.io/tags/</link>
+    <link>https://wusheng-ws.github.io/tags/</link>
     <description>Recent content in Tags on 小吴的个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 02 Jul 2022 10:59:47 +0800</lastBuildDate><atom:link href="http://wusheng-ws.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Jul 2022 10:59:31 +0800</lastBuildDate><atom:link href="https://wusheng-ws.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tag1</title>
+      <link>https://wusheng-ws.github.io/tags/tag1/</link>
+      <pubDate>Mon, 11 Jul 2022 10:59:31 +0800</pubDate>
+      
+      <guid>https://wusheng-ws.github.io/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>tag2</title>
-      <link>http://wusheng-ws.github.io/tags/tag2/</link>
-      <pubDate>Sat, 02 Jul 2022 10:59:47 +0800</pubDate>
+      <link>https://wusheng-ws.github.io/tags/tag2/</link>
+      <pubDate>Mon, 11 Jul 2022 10:59:31 +0800</pubDate>
       
-      <guid>http://wusheng-ws.github.io/tags/tag2/</guid>
+      <guid>https://wusheng-ws.github.io/tags/tag2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>笔记</title>
-      <link>http://wusheng-ws.github.io/tags/%E7%AC%94%E8%AE%B0/</link>
+      <link>https://wusheng-ws.github.io/tags/%E7%AC%94%E8%AE%B0/</link>
       <pubDate>Sat, 02 Jul 2022 10:59:47 +0800</pubDate>
       
-      <guid>http://wusheng-ws.github.io/tags/%E7%AC%94%E8%AE%B0/</guid>
+      <guid>https://wusheng-ws.github.io/tags/%E7%AC%94%E8%AE%B0/</guid>
       <description></description>
     </item>
     

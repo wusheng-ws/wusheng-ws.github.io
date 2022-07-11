@@ -4,38 +4,36 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Hh | 小吴的个人博客</title>
+    <title>Instruction | 小吴的个人博客</title>
 
     
 
 
 
-<meta name="author" content="小吴" />
-<meta name="description" content=" Cut out summary from your post content here.
+<meta name="author" content="Author Name" />
+<meta name="description" content="使用hugo快速搭建website
 " />
 
 
 
 <meta name="generator" content="Hugo 0.101.0" />
 
-<link rel="canonical" href="https://wusheng-ws.github.io/posts/hh/" />
+<link rel="canonical" href="https://wusheng-ws.github.io/posts/instruction/" />
 
 
-<meta property="og:title" content="Hh" />
-<meta property="og:description" content="
-Cut out summary from your post content here." />
+<meta property="og:title" content="Instruction" />
+<meta property="og:description" content="使用hugo快速搭建website" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://wusheng-ws.github.io/posts/hh/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2022-07-02T10:59:47+08:00" />
-<meta property="article:modified_time" content="2022-07-02T10:59:47+08:00" />
+<meta property="og:url" content="https://wusheng-ws.github.io/posts/instruction/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-07-11T10:59:31+08:00" />
+<meta property="article:modified_time" content="2022-07-11T10:59:31+08:00" />
 
 
 
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Hh"/>
-<meta name="twitter:description" content="
-Cut out summary from your post content here."/>
+<meta name="twitter:title" content="Instruction"/>
+<meta name="twitter:description" content="使用hugo快速搭建website"/>
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css" integrity="sha256-UXesixbeLkB/UYxVTzuj/gg3+LMzgwAmg3zD+C4ZASQ=" crossorigin="anonymous">
@@ -99,18 +97,18 @@ Cut out summary from your post content here."/>
   <div class="sixteen wide mobile sixteen wide tablet ten wide computer column markdown-body dream-single" id="dream-save-post-as-img">
     <section class="ui segment">
       <header>
-        <h1 class="ui large header">Hh<span class="sub header">
+        <h1 class="ui large header">Instruction<span class="sub header">
             <span class="left">
               @
               
                 
-                  小吴
+                  Author Name
                 
               
 
               | 
                   
-                    Saturday, Jul 2, 2022
+                    Monday, Jul 11, 2022
                   
                 
 
@@ -120,7 +118,7 @@ Cut out summary from your post content here."/>
               | Update at
                 
                   
-                    Saturday, Jul 2, 2022
+                    Monday, Jul 11, 2022
                   
                 
               
@@ -131,10 +129,10 @@ Cut out summary from your post content here."/>
   <a href="#" class="save-as-image" title="Save as image" onclick="savePostAsImg()">
     <i class="save icon"></i>
   </a>
-  <a href="https://twitter.com/intent/tweet?text=Hh&url=https%3a%2f%2fwusheng-ws.github.io%2fposts%2fhh%2f" title="Twitter">
+  <a href="https://twitter.com/intent/tweet?text=Instruction&url=https%3a%2f%2fwusheng-ws.github.io%2fposts%2finstruction%2f" title="Twitter">
     <i class="twitter icon"></i>
   </a>
-  <a href="https://facebook.com/sharer/sharer.php?u=https%3a%2f%2fwusheng-ws.github.io%2fposts%2fhh%2f" title="Facebook">
+  <a href="https://facebook.com/sharer/sharer.php?u=https%3a%2f%2fwusheng-ws.github.io%2fposts%2finstruction%2f" title="Facebook">
     <i class="facebook icon"></i>
   </a>
 </span>
@@ -147,10 +145,31 @@ Cut out summary from your post content here."/>
       <article class="main">
         
 
-        <p><img src="https://t7.baidu.com/it/u=1595072465,3644073269&amp;fm=193&amp;f=GIF" alt="你爹妈石峰吧a">
-Cut out summary from your post content here.</p>
-<p><img src="https://t7.baidu.com/it/u=1595072465,3644073269&amp;fm=193&amp;f=GIF" alt="你爹妈石峰吧a">
-The remaining content of your post.</p>
+        <p>使用hugo快速搭建website</p>
+<h1 id="关于hugo">关于hugo</h1>
+<p>hugo只是一个命令行工具
+hugo可以作为一个server来运行
+hugo可以直接将网站内容静态化输出到一个目录中
+hugo使用go语言编写，支持多平台的独立执行</p>
+<h1 id="下载项目编译">下载项目编译</h1>
+<pre tabindex="0"><code>git clone https://github.com/gohugoio/hugo.git
+</code></pre><h1 id="具体使用">具体使用</h1>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-golang" data-lang="golang"><span style="display:flex;"><span><span style="color:#75715e">//查看版本
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#a6e22e">hugo</span> <span style="color:#a6e22e">version</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">// 创建一个quickstart项目
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#a6e22e">hugo</span> <span style="color:#a6e22e">new</span> <span style="color:#a6e22e">quictstart</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">cd</span> <span style="color:#a6e22e">quickstart</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">// 增加模板样式
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#a6e22e">git</span> <span style="color:#a6e22e">init</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">git</span> <span style="color:#a6e22e">submodule</span> <span style="color:#a6e22e">add</span> <span style="color:#a6e22e">https</span>:<span style="color:#75715e">//github.com/budparr/gohugo-theme-ananke.git themes/ananke
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// 修改配置文件制定模板是 ananke
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#a6e22e">echo</span> <span style="color:#960050;background-color:#1e0010">&#39;</span><span style="color:#a6e22e">theme</span> = <span style="color:#e6db74">&#34;ananke&#34;</span><span style="color:#960050;background-color:#1e0010">&#39;</span> <span style="color:#f92672">&gt;&gt;</span> <span style="color:#a6e22e">config</span>.<span style="color:#a6e22e">toml</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">// 创建一个新博客
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#a6e22e">hugo</span> <span style="color:#a6e22e">new</span> <span style="color:#a6e22e">posts</span><span style="color:#f92672">/</span><span style="color:#a6e22e">my</span><span style="color:#f92672">-</span><span style="color:#a6e22e">first</span><span style="color:#f92672">-</span><span style="color:#a6e22e">post</span>.<span style="color:#a6e22e">md</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">// 启动服务
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#a6e22e">hugo</span> <span style="color:#a6e22e">server</span> <span style="color:#f92672">-</span><span style="color:#a6e22e">D</span>
+</span></span></code></pre></div>
       </article>
     </section>
 
